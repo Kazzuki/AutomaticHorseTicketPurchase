@@ -3,10 +3,10 @@
 ### 【要件整理】
 
 ■対象サイト
-[オッズ確認サイト](https://race.netkeiba.com/top/)
-[JRAネット投票](https://www.ipat.jra.go.jp/sp/)
+- [オッズ確認サイト](https://race.netkeiba.com/top/)
+- [JRAネット投票](https://www.ipat.jra.go.jp/sp/)
 
-■AsIsとToBe整理
+■AsIsとToBe
 - AsIs
     - ３画面に各Webページを表示しながら手動で馬券を購入している
 - ToBe
@@ -33,7 +33,7 @@
 ■その他
 - Notion
     - ドキュメント整理
-- Drow.io
+- diagrams.net(旧：draw.io)
     - アーキテクチャ図作成
 - Zoom
     - 開発MTG実施
