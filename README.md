@@ -15,12 +15,6 @@
 ### アーキテクチャ
 ![全体像](/doc/architecture.png) 
 
-### 【ヒアリング】確認する事
-
-- 最大の掛け金(最大連続レース数)はいくらに設定するか？
-- 使用するブラウザは、GoogleChromeでいいか？
-    - GoogleChromeのバージョンとPCのOSにあった、Chromedriverのinstall必要
-
 ### 【技術選定】言語・ライブラリ・その他
 ■言語・ライブラリ
 - Python

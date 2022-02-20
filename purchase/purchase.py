@@ -14,7 +14,7 @@ from selenium.common.exceptions import TimeoutException
 
 
 # ブラウザ起動
-driver = webdriver.Chrome(executable_path = "/Users/kazuki/chromedriver")
+driver = webdriver.Chrome(executable_path = settings.EXECUTABLE_PATH)
 driver.maximize_window()
 
 # アクセスするURL
