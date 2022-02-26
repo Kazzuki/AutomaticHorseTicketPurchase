@@ -14,6 +14,8 @@
 
 ### アーキテクチャ
 ![全体像](/doc/architecture.png) 
+■スクレイピング先ページ
+- [オッズ](https://race.netkeiba.com/odds/index.html?race_id=202206020109)
 
 ### 【技術選定】言語・ライブラリ・その他
 ■言語・ライブラリ

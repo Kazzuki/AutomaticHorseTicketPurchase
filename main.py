@@ -1,6 +1,6 @@
 #モジュールのインポート
 import time
-import settings
+import settings as settings
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.support.select import Select
