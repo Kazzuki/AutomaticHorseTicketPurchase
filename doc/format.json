@@ -1,18 +1,18 @@
 {
-    "place": "東京",
-    "race": 11,
-    "naem": "フェブラリーS",
-    "timestamp": "202202201530",
-    "popularHorse":[
-        {
-            "no": 1,
-            "name": "レッドルゼル",
-            "odds": 4.1
-        },
-        {
-            "no": 2,
-            "name": "カフェファラオ",
-            "odds": 5.5
-        }
-    ]
+    "racePlace": "東京",
+    "raceNum": 11,
+    "raceName": "フェブラリーS",
+    "popularHorse": [
+    {
+        "no": 1,
+        "name": "レッドルゼル",
+        "odds": 4.1
+    },
+    {
+        "no": 2,
+        "name": "カフェファラオ",
+        "odds": 5.5
+    }
+    ],
+    "timestamp": "202202201530"
 }
